@@ -2,7 +2,7 @@
 
 using namespace std;
 int arrResultStore(char); // storing Char in the array
-int winner(char );//
+int winner(char);//
 
 int main()
 {
